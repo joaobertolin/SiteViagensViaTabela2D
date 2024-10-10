@@ -6,3 +6,7 @@ div {
   border: thick solid grey;
   background-color: grey;
 }
+li {
+  font-family: Sans-Serif;
+  color: gray;
+}
