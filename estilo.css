@@ -1,1 +1,7 @@
-
+body {
+  font-family: Arial;
+  background-img:URL(praia.jpeg);
+}
+div {
+  border: thick solid grey;
+}
