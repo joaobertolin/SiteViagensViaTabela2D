@@ -4,4 +4,5 @@ body {
 }
 div {
   border: thick solid grey;
+  background-color: grey;
 }
